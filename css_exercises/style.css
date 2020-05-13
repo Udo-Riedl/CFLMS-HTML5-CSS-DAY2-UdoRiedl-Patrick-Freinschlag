@@ -3,14 +3,9 @@ div {
 	margin: 5px;
 }
 
-#third {
-	display: none;
+#first p {
+	font-size: 2em;
 }
-h1 {
-	display: none;
-}
-#second div {
-	display: none;
 }
 img {
 	display: block;
